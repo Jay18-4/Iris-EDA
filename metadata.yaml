@@ -1,0 +1,14 @@
+project: Iris Dataset EDA
+description: >
+  Exploratory Data Analysis (EDA) on the Iris dataset, a classic dataset for pattern recognition.
+  The dataset contains sepal and petal dimensions of three Iris species: Setosa, Versicolor, and Virginica.
+author: Ifediba Chimdalu
+date: 2025-01-23
+license: MIT
+dataset_source: UCI Machine Learning Repository
+tools:
+  - Python
+  - Pandas
+  - Matplotlib
+  - Seaborn
+
