@@ -54,3 +54,7 @@ This project involves a detailed exploratory data analysis (EDA) of the Iris dat
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jay18-4/iris-eda.git
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
